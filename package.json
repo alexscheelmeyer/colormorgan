@@ -1,6 +1,6 @@
 {
   "name": "colormorgan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/alexscheelmeyer/colormorgan",
   "description": "A prepackaged colorful morgan based logger",
   "main": "index.js",
