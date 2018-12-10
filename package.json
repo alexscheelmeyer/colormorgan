@@ -1,0 +1,20 @@
+{
+  "name": "colormorgan",
+  "version": "0.0.1",
+  "repository": "https://github.com/alexscheelmeyer/colormorgan",
+  "description": "A prepackaged colorful morgan based logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "morgan",
+    "logging"
+  ],
+  "author": "Alex Scheel Meyer",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "2.4.1",
+    "morgan": "1.9.1"
+  }
+}
